@@ -1,0 +1,4 @@
+name: bulldozers
+
+dependencies:
+  - python=3.7
